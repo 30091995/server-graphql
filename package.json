@@ -1,0 +1,23 @@
+{
+  "name": "server-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/30091995/server-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/30091995/server-graphql/issues"
+  },
+  "homepage": "https://github.com/30091995/server-graphql#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
