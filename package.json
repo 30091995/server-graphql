@@ -29,7 +29,9 @@
   },
   "dependencies": {
     "@graphql-tools/utils": "^8.1.0",
+    "graphql-import-node": "0.0.4",
     "graphql-tool": "^1.0.0",
+    "graphql-tools": "^8.1.0",
     "lodash": "^4.17.21"
   }
 }
