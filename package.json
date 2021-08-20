@@ -38,6 +38,7 @@
     "graphql-import-node": "0.0.4",
     "graphql-tool": "^1.0.0",
     "graphql-tools": "^8.1.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "mongoose": "^5.13.7"
   }
 }
