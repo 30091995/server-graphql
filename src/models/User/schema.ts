@@ -1,4 +1,3 @@
-import { mongo, Mongoose } from "mongoose";
 import mongoose, { Schema } from "mongoose"
 
 const userSchemaFields = {
