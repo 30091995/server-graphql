@@ -1,3 +1,11 @@
+
+type User {
+    username: string;
+    password: string;
+    email: string;
+    createdAt: Date;
+    updatedAt: Date;
+}
 extend type Query {
     login(email: String!, password: String!): AuthenticateResponse!
 }
